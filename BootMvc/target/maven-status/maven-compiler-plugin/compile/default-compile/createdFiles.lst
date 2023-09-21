@@ -1,0 +1,3 @@
+com\example\BootMvc\BootMvcApplication.class
+com\example\BootMvc\models\User.class
+com\example\BootMvc\controllers\RegisterController.class
